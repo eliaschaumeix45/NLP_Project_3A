@@ -3,7 +3,8 @@
 __The aim of this project is to extract keywords from a short text.__ For this purpose we used abstracts of research papers and the associated keywords. Our dataset is the Scielo website that we scrapped. It is a Latin American website that publishes articles in English shared by the Sao Paulo Research Foundation and the Latin American and Caribbean Center on Health Sciences Information. In this project, we chose to combine two different approaches : supervised and unsupervised learning. It seemed interesting to us because it is not usual to have access to the actual keywords of the abstracts, most of the time keywords extraction is dealt with unsupervised learning.
 
 ## The files
-`df.csv` is the abstracts database we extracted \\
+`df.csv` is the abstracts database we extracted 
+
 `NLP_Project (1)` is our main code
 
 ## Links to some databases we used
