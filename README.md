@@ -4,7 +4,7 @@ __The aim of this project is to extract keywords from a short text.__ For this p
 
 ## The files
 `df.csv` is the abstracts database we extracted
-`
+`NLP_Project (1)` is our main code
 
 ## Links to some databases we used
 The following databases are to heavy to share them directly. Therefore there are the links to download if needed. However the code and outputs are already run on our GitHub notebook. 
