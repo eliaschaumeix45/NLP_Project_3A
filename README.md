@@ -8,7 +8,7 @@ __The aim of this project is to extract keywords from a short text.__ For this p
 
 `NLP_Project (1)` is our main code
 
-`NLP_Keywords_Extraction` is our report where we develop our approach 
+`NLP_Keywords_Extraction` is our report in which we develop our approach 
 
 
 The code is pretty heavy so here is the link to our Google Colab : https://colab.research.google.com/drive/1rMzOb7v80usva4-_31Io_wzN4-4G9wyX#scrollTo=qUxN-e99rOoN
