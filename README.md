@@ -8,7 +8,7 @@ __The aim of this project is to extract keywords from a short text.__ For this p
 `NLP_Project (1)` is our main code
 
 ## Links to some databases we used
-The following databases are to heavy to share them directly. Therefore there are the links to download if needed. However the code and outputs are already run on our GitHub notebook. 
+The following databases are too heavy to share them directly. Therefore there are the links to download them if needed. However the code and outputs are already run on our GitHub notebook. 
 
 The following link is the wikipedia database that we used in our notebook : 
 https://wikipedia2vec.github.io/wikipedia2vec/pretrained/?fbclid=IwAR33wgCCNJLZKhkBs5k-og83rYj92SYwpsuRK11X97eQHipVkhmSqTlnhNE
