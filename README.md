@@ -1,4 +1,8 @@
-# NLP_Project_3A
+# NLP project - ENSAE - Tom Guédon & Elias Chaumeix
+
+
+
+
 
 The following link is the wikipedia database that we used in our notebook : 
 https://wikipedia2vec.github.io/wikipedia2vec/pretrained/?fbclid=IwAR33wgCCNJLZKhkBs5k-og83rYj92SYwpsuRK11X97eQHipVkhmSqTlnhNE
