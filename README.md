@@ -8,7 +8,8 @@ __The aim of this project is to extract keywords from a short text.__ For this p
 
 `NLP_Project (1)` is our main code
 
-Here is the link to our Google Colab : https://colab.research.google.com/drive/1rMzOb7v80usva4-_31Io_wzN4-4G9wyX#scrollTo=qUxN-e99rOoN
+
+The code is pretty heavy so here is the link to our Google Colab : https://colab.research.google.com/drive/1rMzOb7v80usva4-_31Io_wzN4-4G9wyX#scrollTo=qUxN-e99rOoN
 
 
 ## Links to some databases we used
